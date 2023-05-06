@@ -10,9 +10,17 @@ at the end of the line semicolon we should put semicolon at the end
 of the first statement to avoid errors or problems.
 
 # Instruction
-1 -use this extension to run your javascript program on your local server.
+<ol>
+<li>
+-use this extension to run your javascript program on your local server.
     [- Live Server extension.](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
-2 -use this extension arrange your spacing and indentaion.
+</li>
+<li>
+-use this extension arrange your spacing and indentaion.
     [- indent-rainbow](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
-3 -use this extension to manage your brackets prfecting Code Formater.
+</li>
+<li>
+-use this extension to manage your brackets prfecting Code Formater.
     [- Prettier](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
+</li>
+</ol>
