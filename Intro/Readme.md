@@ -10,4 +10,4 @@ at the end of the line semicolon we should put semicolon at the end
 of the first statement to avoid errors or problems.
 
 # Instruction
-[- Use Live Server extension.](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
+[- Live Server extension.](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
