@@ -1,3 +1,2 @@
-alert("Hello");
-
-[1, 2].forEach(alert);
+// alert Is a function that show messages.
+alert("Hello world!");
