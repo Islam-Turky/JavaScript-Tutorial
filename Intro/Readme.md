@@ -14,7 +14,7 @@ of the first statement to avoid errors or problems.
 <li>
 
  -use this extension to run your javascript program on your local server.
-    [- Live Server extension.](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
+    [- Live Server](https://vscode.dev/github/Islam-Turky/JavaScript-Tutorial/blob/master)
 </li>
 <li>
 
