@@ -26,6 +26,8 @@ Explain The Basics For JavaScripts Programing Language.
   
 </tr>
 <!-- End Table -->
+
+
 # Instructions
 <h3>Extension I Use In VS Code</h3>
 
