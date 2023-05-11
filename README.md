@@ -5,8 +5,7 @@ Explain The Basics For JavaScripts Programing Language.
 ----------------------------------------------------------------------------------------------------
 INDEX |                                   Subject                                                  |
 ------|---------------------------------------------------------------------------------------------
-  1   |    [Introduction](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/master/Intro)    |
- ---  |  -------------------------------------------------------------------------------------------  
+  1   |    [Introduction](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/master/Intro)    |   ______|_____________________________________________________________________________________________
   2   |    [Variables](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/master/variables)   |
 ----------------------------------------------------------------------------------------------------  
 <!-- End Table -->
