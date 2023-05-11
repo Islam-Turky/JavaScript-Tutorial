@@ -11,25 +11,3 @@ there are some cases where we should use semicolon for example
 when there is two two statements and the second statement contains 
 at the end of the line semicolon we should put semicolon at the end 
 of the first statement to avoid errors or problems.
-
-# Instruction
-<ol>
-<li>
-
-
- -use this extension to run your javascript program on your local server.
-    [- Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-</li>
-<li>
-
-
- -use this extension arrange your spacing and indentaion.
-    [- indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-</li>
-<li>
-
-
- -use this extension to manage your brackets prfecting Code Formater.
-    [- Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-</li>
-</ol>
