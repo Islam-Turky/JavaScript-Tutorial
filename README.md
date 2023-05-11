@@ -8,9 +8,15 @@ Explain The Basics For JavaScripts Programing Language.
 # Instructions
 <h3>Extension I Use In VS Code</h3>
 <ol>
-    <li>[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)</li>
-    <li>[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)</li>
-    <li>[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)</li>
+    <li>
+        [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    </li>
+    <li>
+        [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    </li>
+    <li>
+        [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+    </li>
 </ol>
 
 # References
