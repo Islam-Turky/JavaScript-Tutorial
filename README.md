@@ -7,17 +7,11 @@ Explain The Basics For JavaScripts Programing Language.
 
 # Instructions
 <h3>Extension I Use In VS Code</h3>
-<ol>
-    <li>
-        [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-    </li>
-    <li>
-        [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    </li>
-    <li>
-        [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-    </li>
-</ol>
+1- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServe)
+<br>
+2- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+<br>
+3- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 # References
 <h2>This Site Introduce JavaScript Course For Free From Begainners To Advanced Leve.</h2>
