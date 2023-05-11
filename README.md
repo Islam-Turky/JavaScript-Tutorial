@@ -14,7 +14,7 @@ INDEX |                                   Subject                               
 # Instructions
 <h3>Extension I Use In VS Code</h3>
 
-1 -[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServe)
+1 -[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 <br>
 
 2 -[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
