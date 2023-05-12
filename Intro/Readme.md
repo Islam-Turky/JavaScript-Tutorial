@@ -11,3 +11,6 @@ there are some cases where we should use semicolon for example
 when there is two two statements and the second statement contains 
 at the end of the line semicolon we should put semicolon at the end 
 of the first statement to avoid errors or problems.
+
+# References
+=> [Hello World](https://javascript.info/hello-world)
