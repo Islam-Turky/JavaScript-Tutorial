@@ -26,7 +26,7 @@ When you use a developer console to run code, please note that it doesn’t use 
 <br>
 => It works in most browsers, namely Firefox and Chrome.
 <br>
-<h1>Should we “use strict”?</h1>
+<h2>Should we “use strict”?</h2>
 The question may sound obvious, but it’s not so.
 <br>
 One could recommend to start scripts with "use strict"… But you know what’s cool?
