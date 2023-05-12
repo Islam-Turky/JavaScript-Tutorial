@@ -40,7 +40,7 @@ As of now, we’ve got to know about use strict in general.
 In the next chapters, as we learn language features, we’ll see the differences between the strict and old modes. Luckily, there aren’t many and they actually make our lives better.
 
 # References
-=> [To Download NodeJS](https://nodejs.org/en)
+=> [Download NodeJS](https://nodejs.org/en)
 <br>
 
 => [Hello World](https://javascript.info/hello-world)
