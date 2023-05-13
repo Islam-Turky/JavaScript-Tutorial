@@ -12,7 +12,7 @@ We declare a variable in any programming language To store Data in a somewhere t
 we declare a variable in JS By using the "let" keyword and Put Our Variable Name after This Keyword for Example:<br>
   
   
-[](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/221cfa9e15eb4964caf49173f7a5dbcfd56f50ab/Images/variable1.png)
+(https://github.com/Islam-Turky/JavaScript-Tutorial/blob/221cfa9e15eb4964caf49173f7a5dbcfd56f50ab/Images/variable1.png)
   
 <br>
 We can combine  these two statements together like this:<br>
