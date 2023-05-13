@@ -5,6 +5,11 @@
 
 # JavaScript-Tutorial
 Explain The Basics For JavaScripts Programing Language.
+## Installation
+```
+git clone https://github.com/Islam-Turky/JavaScript-Tutorial.git
+cd JavaScript-Tutorial
+```
 # Topics
 <!-- Making Table Content -->
 ----------------------------------------------------------------------------------------------------
