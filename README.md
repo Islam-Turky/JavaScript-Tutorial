@@ -8,7 +8,7 @@ INDEX |                                   Subject                               
   1   |   [Introduction](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/master/Intro)     |   ______|_____________________________________________________________________________________________
   2   |   [Variables](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/master/variables)    |
 ______|_____________________________________________________________________________________________
-  3   |   [Data Types](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/Basics/Data%20Types)|
+  3   |  [Data Types](https://github.com/Islam-Turky/JavaScript-Tutorial/tree/Basics/Data%20Types) |
 ----------------------------------------------------------------------------------------------------  
 <!-- End Table -->
 
