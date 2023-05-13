@@ -1,4 +1,4 @@
-<image src="https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fd7f28803b1dcaf7ae1b1ad401c12b5b3a2ba1e2/Images/JS.png" />
+<image src="https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fd7f28803b1dcaf7ae1b1ad401c12b5b3a2ba1e2/Images/JS.png" style="height:100px; width:500px"/>
 <image src"https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fd7f28803b1dcaf7ae1b1ad401c12b5b3a2ba1e2/Images/nodejs.png" />
 
 # JavaScript-Tutorial
