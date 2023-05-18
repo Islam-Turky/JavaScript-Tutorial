@@ -28,7 +28,6 @@ We can get it as a result of division by zero or just reference it directly.
 
 ![no](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/4b97469c60b58f7955cf8676fd6c2fa3c0ec2954/Images/NumberType.png)
 
-<br>
 <h2>BigInt</h2>
 <p>
 ==>In JavaScript, the “number” type cannot safely represent integer values larger than (253-1) (that’s 9007199254740991), or less than -(253-1) for negatives.
