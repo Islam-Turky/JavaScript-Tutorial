@@ -25,7 +25,9 @@ We can get it as a result of division by zero or just reference it directly.
 <br>
 => So, if there’s a NaN somewhere in a mathematical expression, it propagates to the whole result (there’s only one exception to that: NaN ** 0 is 1).
 </p>
+
 ![no](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/4b97469c60b58f7955cf8676fd6c2fa3c0ec2954/Images/NumberType.png)
+
 <br>
 <h2>BigInt</h2>
 <p>
