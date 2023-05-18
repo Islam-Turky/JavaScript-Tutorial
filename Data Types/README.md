@@ -33,8 +33,10 @@ We can get it as a result of division by zero or just reference it directly.
 ==>In JavaScript, the “number” type cannot safely represent integer values larger than (253-1) (that’s 9007199254740991), or less than -(253-1) for negatives.
 <br>
 A BigInt value is created by appending n to the end of an integer
-<p>
+</p>   
 
+![no](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fdbf9efb1253b805d2a73fc9dc03504ce2c23595/Images/BigintType.png)    
+    
 <h2>String</h2>
 <p>
 <h3>In JavaScript, there are 3 types of quotes.</h3>
@@ -49,12 +51,16 @@ A BigInt value is created by appending n to the end of an integer
 --> Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}
 </p>
 
+![no](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fdbf9efb1253b805d2a73fc9dc03504ce2c23595/Images/StringType.png)
+
 <h2>Boolean</h2>
 <p>
 The boolean type has only two values: true and false.
 <br>
 This type is commonly used to store yes/no values: true means “yes, correct”, and false means “no, incorrect”.
 </p>
+
+![no](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fdbf9efb1253b805d2a73fc9dc03504ce2c23595/Images/BooleanType.png)
 
 <h2>null</h2>
 <p>
@@ -79,6 +85,8 @@ Normally, one uses null to assign an “empty” or “unknown” value to a var
 <br>
 a default initial value for unassigned things.
 </p>
+
+![no](https://github.com/Islam-Turky/JavaScript-Tutorial/blob/fdbf9efb1253b805d2a73fc9dc03504ce2c23595/Images/UndefinedType.png)
 
 <h2>Objects</h2>
 <p>
